@@ -11,17 +11,6 @@ I'm a postdoctoral researcher at the Oceanographic Institute of the University o
 ### Blog posts:
 [Behinde the Paper (Springer Nature): Ocean circulation changes in a warming climate: the South Atlantic coupled response to wind and thermohaline forcings](https://communities.springernature.com/posts/ocean-circulation-changes-in-a-warming-climate-the-south-atlantic-coupled-response-to-wind-and-thermohaline-forcings)
 
-### Contact:
-<p style="font-size:8px;">
-fernanda.marcello@usp.br
-</p>
+### Contact: <p style="font-size:8px; font-weight:normal">fernanda.marcello@usp.br</p>
 
-<p>
-  <span style="font-size:18px; font-weight:bold;">Contact:</span>
-  <span style="font-size:14px; font-weight:normal;">fernanda.marcello@usp.br</span>
-</p>
 
-<p>
-  <span style="font-size:18px; font-weight:bold;">Contact:</span>
-  <span style="font-size:14px; font-weight:normal;">fernanda.marcello@usp.br</span>
-</p>
